@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A Software Engineering Student at the University of Waterloo</h3>
 
+- 🔭 I’m currently working on [CityVolt](https://github.com/Ahmed-M25/CityVolt) to solve electricity cuts in Egypt.
 - 📫 How to reach me **a47moham@uwaterloo.ca**
 
 <p align="left">
